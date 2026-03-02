@@ -6,7 +6,7 @@ let bgp;
 
 function preload() {
   bgp = loadImage("3858.jpg");
-  snakeImg = loadImage("snake01.png");
+  snakeImg = loadImage("snake.png");
   foodImg = loadImage("donut.png");
 }
 
